@@ -1,5 +1,7 @@
 # Some feature
 
+Please read that!
+
 ## Subsection
 
 Exciting documentation in here.
